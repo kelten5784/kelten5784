@@ -1,4 +1,6 @@
 # About Me
+[![trophy](https://github-profile-trophy.vercel.app/?username=kelten5784&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 👋 Hi there! I'm Kelten, a cybersecurity student with a passion for programming and a goal to innovate cybersecurity practices. Here’s a concise look at me:
 

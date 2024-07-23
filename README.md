@@ -1,16 +1,39 @@
-## Hi there 👋
+# About Me
 
-<!--
-**kelten5784/kelten5784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Kelten, a cybersecurity student with a passion for programming and a goal to innovate cybersecurity practices. Here’s a concise look at me:
 
-Here are some ideas to get you started:
+## 👨‍💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, C++, Java
+- **Cybersecurity:** Security scripting
+
+## 📚 Education
+
+- Currently pursuing a Cybersecurity degree at Fanshawe
+
+## 💼 Professional Goals
+
+- Mastering offensive and defensive cybersecurity techniques
+- Contributing to open-source security projects
+- Innovating solutions for cybersecurity challenges
+
+## 🚀 Projects
+
+- Creating a Unity project with AI-driven tag-playing rats in randomly generated maps
+
+## 🌐 Experience
+
+- Previous experience in FRC robotics
+- Home experimental projects in cybersecurity
+
+## 🤝 Let's Connect
+
+- Discord: thytardigrade
+
+## 🎯 Fun Facts
+
+- Enthusiastic learner and cybersecurity blog reader
+- Skilled in 3D modeling and art
+- Can fit my fist in my mouth
+
+Thanks for checking out my profile! 🔐✨
